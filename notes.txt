@@ -1,0 +1,13 @@
+IP Address
+Ip addresses perform two main functions.
+1. They uniquely address each device that's connected to a network.
+2. They help the traffic to be routed between networks.
+
+Each IP address that is assigned to a network device is unique and no two devices can share an IP address.
+
+They typically look something like this: 203.0.113.12
+The numbers are sometimes called octets or bytes because each one represents 8-bits of the 32-bit number.
+
+They way of writing IP addresses is called dot-decimal notation.
+
+As such, each octet can only take values from 0 t0 255, so valid IP addresses range from 0.0.0.0 to 255.255.255.255
